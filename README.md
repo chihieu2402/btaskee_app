@@ -1,16 +1,14 @@
-# btaskee_app
+# btaskee\_app
 
 bTaskee app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To Do List:
 
-A few resources to get you started if this is your first Flutter project:
+A. Create Components: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Button \[X]
+2. Card \[X]
+3. Input \[X]
+4. 
