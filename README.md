@@ -12,7 +12,7 @@ A. Create Components:
 Button group \[X]
 Button dock \[X]
 Timed button \[X]
- Sliding button
+ Sliding button \[X]
 2. Indicators and status
 Bagde
 Placeholder
