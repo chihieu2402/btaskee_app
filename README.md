@@ -14,8 +14,8 @@ Button dock \[X]
 Timed button \[X]
  Sliding button \[X]
 2. Indicators and status
-Bagde
-Placeholder
+Bagde \[X]
+Placeholder \[X]
 Tag
 3. Input:
 Input field \[X]
