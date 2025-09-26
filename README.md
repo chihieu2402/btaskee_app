@@ -19,8 +19,8 @@ Placeholder \[X]
 Tag
 3. Input:
 Input field \[X]
-Check
-Menu
+Check \[X]
+Menu \[X]
 Time picker
 4. Content display
 Accordion
