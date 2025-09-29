@@ -23,9 +23,9 @@ Check \[X]
 Menu \[X]
 Time picker
 4. Content display
-Accordion
-List
-Section heading
+Accordion \[X]
+List \[X]
+Section heading \[X]
 5. Message
 Banner
 Dialog
