@@ -27,8 +27,8 @@ Accordion \[X]
 List \[X]
 Section heading \[X]
 5. Message
-Banner
-Dialog
+Banner \[X]
+Dialog \[X]
 6. Containers & layout
 Card \[X]
 Divider
