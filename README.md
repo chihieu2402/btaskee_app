@@ -33,9 +33,9 @@ Dialog \[X]
 Card \[X]
 Divider
 7. Navigation
-Link
-Pagination
-Tabs
+Link \[X]
+Pagination \[X]
+Tabs \[X]
 8. Data & table
 Table
 
