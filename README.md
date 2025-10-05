@@ -16,12 +16,12 @@ Timed button \[X]
 2. Indicators and status
 Bagde \[X]
 Placeholder \[X]
-Tag
+Tag \[X]
 3. Input:
 Input field \[X]
 Check \[X]
 Menu \[X]
-Time picker
+Time picker \[X]
 4. Content display
 Accordion \[X]
 List \[X]
@@ -31,7 +31,7 @@ Banner \[X]
 Dialog \[X]
 6. Containers & layout
 Card \[X]
-Divider
+Divider \[X]
 7. Navigation
 Link \[X]
 Pagination \[X]
