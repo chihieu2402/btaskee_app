@@ -37,7 +37,7 @@ Link \[X]
 Pagination \[X]
 Tabs \[X]
 8. Data & table
-Table
+Table \[X]
 
 
 
